@@ -3,6 +3,20 @@ title: "Strava in Roanoke, VA"
 output: html_notebook
 ---
 
+(City Overview)[!image of Roanoke]
+
+Roanoke, Virginia is a beautiful city nestled in the Blue Ridge Mountains. Home to X people spread over the greater Roanoke Area, which includes Roanoke City, Roanoke County, Vinton, Botetourt, and Salem. 
+
+Founded in XXXX, Roanoke has a long history of industry and tourism. The presence of the Norfolk and Western Railway headquarters grew little old Big Lick into the city of Roanoke. As the railroad slowly left Roanoke, tourism and the health industry became Roanoke's main industry. 
+
+As of XXXX, tourism accounted for $XXXXXX (%) of the revenue generated in Roanoke. Surrounded by the Blue Ridge Mountains and based on a thriving outdoor recreation industry *** Roanoke activity / outdoor tourism and local resident tourism *** 
+
+Residents of Roanoke frequent the Greenway, hiking trails, mountain bike trails (link to Carvin's Cove), rock climbing, marathons, etc. 
+
+Go Outside Fest ... 
+
+
+
 ```{r}
 
 ```
